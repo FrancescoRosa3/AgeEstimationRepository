@@ -1,5 +1,10 @@
 # AgeEstimationRepository
-Artificial Vision 2020/2021, Real Age Estimation
+Artificial Vision 2020/2021, Real Age Estimation <br/>
+* Demetrio Trimarco, d.trimarco1@studenti.unisa.it, 0622701179
+* Emilio Sorrentino, e.sorrentino38@studenti.unisa.it, 0622701199
+* Francesco Rosa, f.rosa5@studenti.unisa.it, 0622701095
+* Francesco Sabbarese, f.sabbarese3@studenti.unisa.it, 0622701190
+
 
 Repository contenente le seguenti cartelle:
 * __Train__, cartella contenente il Google Colab utilizzato per il training del modello, con i file *.py utilizzati per effettuare la Data Augmentation.
