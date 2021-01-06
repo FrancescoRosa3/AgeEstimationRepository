@@ -13,4 +13,4 @@ Repository contenente le seguenti cartelle:
 
 Per l'esecuzione dei codici, aggiungere come scorciatoia al proprio Drive la cartella Drive al seguente link:<br/> 
 https://drive.google.com/drive/folders/16N5-dnaYEdoHB3iKgBy1_8njRdKlcxBN?usp=sharing <br/>
-All'interno di ogni cartella sarà presente un README con le istruzioni per l'esecuzione.
+Per l'esecuzione dei codici fare riferimento ai README.md presenti all'interno di ogni sottocartella.
